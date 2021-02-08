@@ -184,17 +184,20 @@ Publish the website in the given URL.
 
 </html>
 ```
-
+### Validation Report:
+![output](./static/img/e04.png)
 
 ## OUTPUT:
 
 ![output](./static/img/e01.png)
 
-![output](./static/img/eo2.png)
+![output](./static/img/eo2jpeg.jpeg)
 
-![output](./static/img/e03.png)
+![output](./static/img/e03.jpeg)
 
-![output](./static/img/eo4.png)
+![output](./static/img/j21.jpeg)
+
+
 
 
 
