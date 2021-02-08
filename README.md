@@ -197,8 +197,7 @@ Publish the website in the given URL.
 
 ### Validation Report:
 
-![output](./static/img/e04.png)
-
+![output](./static/img/eo4.png)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the url http://balaji.student.saveetha.in:8000/responsivewebsite
